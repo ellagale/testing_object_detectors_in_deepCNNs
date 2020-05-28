@@ -14,3 +14,7 @@ If you wish to build on this research your best bet is to take the relevant anal
 Tensorflow2 has recently come out and it is MUCH more user friendly and it is much easier to build a data pipeline (using tensorflow datasets) and keras now comes as standard inside tensorflow2. I am currently in the process of building a new codebase that uses this pipeline (for a different project), so you might want to look at the pipeline in my clusterflow project (due online in the next six months) and combine that with the analysis functions in this codebase. I'm sorry but I am unlikely to combine that new pipeline with this project.
 
 If you find this code useful, please cite our paper your follow on work and within your codebase. 
+
+If you were looking for the materials used in the psychology experiment in the paper, all materials are stored here: \url{https://gorilla.sc/openmaterials/84689}.
+
+
